@@ -1,1 +1,8 @@
 Datasets/ramcharitmanas_book.pkl filter=lfs diff=lfs merge=lfs -text
+Notebooks/Dataset/Book[[:space:]]Pickle[[:space:]]Splits/ramcharitmanas_book_pickle_aa filter=lfs diff=lfs merge=lfs -text
+Notebooks/Dataset/Book[[:space:]]Pickle[[:space:]]Splits/ramcharitmanas_book_pickle_ab filter=lfs diff=lfs merge=lfs -text
+Notebooks/Dataset/Book[[:space:]]Pickle[[:space:]]Splits/ramcharitmanas_book_pickle_ac filter=lfs diff=lfs merge=lfs -text
+Notebooks/Dataset/Book[[:space:]]Pickle[[:space:]]Splits/ramcharitmanas_book_pickle_ad filter=lfs diff=lfs merge=lfs -text
+Notebooks/Dataset/Book[[:space:]]Pickle[[:space:]]Splits/ramcharitmanas_book_pickle_ae filter=lfs diff=lfs merge=lfs -text
+Notebooks/Dataset/Book[[:space:]]Pickle[[:space:]]Splits/ramcharitmanas_book_pickle_af filter=lfs diff=lfs merge=lfs -text
+Notebooks/Dataset/Book[[:space:]]Pickle[[:space:]]Splits/ramcharitmanas_book_pickle_ag filter=lfs diff=lfs merge=lfs -text
