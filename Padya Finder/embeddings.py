@@ -16,6 +16,7 @@ EMBEDDINGS_PATH = "datasets/chroma_db"
 
 embedding_model = OpenAIEmbeddings(model='text-embedding-3-large')
 
+
 # Create & Save Embeddings
 def create_and_save_embeddings(padyas: pd.DataFrame) -> Chroma:
     """
@@ -60,8 +61,9 @@ def create_and_save_embeddings(padyas: pd.DataFrame) -> Chroma:
         ramayan_db.add_documents(batch)
     return ramayan_db
 
+
 # Function to read embeddings
-def fetch_embeddings(ramayan_df):
+def fetch_embeddings(ramayan_df: pd.DataFrame = None) -> Chroma:
     global embedding_model
     try:
         # Attempt to load the existing embeddings database
