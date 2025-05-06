@@ -6,3 +6,5 @@ Notebooks/Dataset/Book[[:space:]]Pickle[[:space:]]Splits/ramcharitmanas_book_pic
 Notebooks/Dataset/Book[[:space:]]Pickle[[:space:]]Splits/ramcharitmanas_book_pickle_ae filter=lfs diff=lfs merge=lfs -text
 Notebooks/Dataset/Book[[:space:]]Pickle[[:space:]]Splits/ramcharitmanas_book_pickle_af filter=lfs diff=lfs merge=lfs -text
 Notebooks/Dataset/Book[[:space:]]Pickle[[:space:]]Splits/ramcharitmanas_book_pickle_ag filter=lfs diff=lfs merge=lfs -text
+Notebooks/datasets/Book[[:space:]]Pickle[[:space:]]Splits/ramcharitmanas_book_pickle_aa filter=lfs diff=lfs merge=lfs -text
+Notebooks/datasets/chroma_db/chroma.sqlite3 filter=lfs diff=lfs merge=lfs -text
